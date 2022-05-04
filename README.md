@@ -4,6 +4,8 @@ I'm a Brazilian developer. Currently working at [AOOP Cloud Solutions](https://w
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+<br />
+
 ### So...
 
 - 🎺 Garage musician;
