@@ -1,12 +1,8 @@
 ## Osu! Ora Goku! ☁
 
-I'm a Brazilian developer. Currently working at [AOOP Cloud Solutions](https://www.aoop.com.br/). Always looking to build applications with amazing experiences.
+I'm a software developer from Brazilian working for [AOOP](https://www.aoop.com.br/). Always looking to build applications focused on a good experience.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-<br />
-
-### So...
 
 - 🎺 Garage musician;
 - 💅 I like to read about **UI & UX**;
