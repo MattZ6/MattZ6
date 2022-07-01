@@ -1,6 +1,6 @@
 ### Osu! Ora Goku! ☁
 
-I'm a software developer from Brazilian working for [AOOP Cloud Solutions](https://www.aoop.com.br/).
+I'm a software developer from Brazil working for [AOOP Cloud Solutions](https://www.aoop.com.br/).
 
 > 🪅 Building applications centered on a good user experience.
 
