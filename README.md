@@ -13,4 +13,4 @@ exploring ideas, and improving my craft.
 
 I play guitar and write songs with [Like a Tear](https://likeatear.com), a garage punk band.
 
-[zanin.dev](https://zanin.dev) · [LinkedIn](https://www.linkedin.com/in/mattz6)
+[zanin.dev](https://zanin.dev) · [in/mattz6](https://www.linkedin.com/in/mattz6)
