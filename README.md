@@ -1,6 +1,4 @@
-### Hello world, I'm Matheus
-
-Frontend Engineer and garage musician.
+#### Frontend Engineer and Garage Musician
 
 I build web apps with Next.js and mobile apps with Expo.
 
@@ -9,7 +7,7 @@ I build web apps with Next.js and mobile apps with Expo.
 Building independent apps,  
 exploring ideas, and improving my craft.
 
-#### Beyond code
+#### Beyond Code
 
 I play guitar and write songs with [Like a Tear](https://likeatear.com),  
 a garage punk band.
